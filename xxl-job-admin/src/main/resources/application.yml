@@ -1,0 +1,9 @@
+apollo:
+  bootstrap:
+    enabled: true
+    namespaces: "xxl-job-space"
+  eagerLoad:
+    enabled: true
+  meta: "http://10.25.82.148:8080"
+app:
+  id: xxl-job
